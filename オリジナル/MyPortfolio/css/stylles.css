@@ -1,0 +1,140 @@
+header{
+  background-color: #efefef;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.mein{
+  /* background-color: pink; */
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  align-items: center;
+}
+
+body{
+  margin: 0;
+}
+
+.info{
+  /* background-color: tomato; */
+  margin-left: 30px;
+}
+
+.icon img{
+  border-radius: 50%;
+  border-width: 6px;
+  border-style: solid;
+  border-color: white;
+}
+
+.info h1{
+  margin: 0;
+  font-weight: normal;
+  font-size: 24px;
+  text-shadow: 1px 1px tomato;
+}
+
+.info p{
+  margin: 0;
+  margin-bottom: 14px;
+}
+
+.info ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+}
+
+.info ul li{
+  margin-right: 8px;
+}
+
+.info ul li:hover{
+  opacity: 0.5;
+}
+
+footer{
+ text-align: center;
+font-size: 30px;
+color:white;
+background-color: rgb(114, 106, 106);
+height: 60px;
+padding-top: 30px;
+}
+
+.wo{
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.wo h2{
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  text-shadow: 1px 1px tomato;
+}
+
+.wo p{
+  margin-bottom: 60px;
+  line-height: 1.8px;
+}
+
+.wo h3{
+  margin-bottom: 30px;
+}
+
+.tuide{
+  text-align: center;
+  font-size: 30px;
+}
+
+.mokuji{
+  font-size: 12px;
+  list-style: none;
+  text-align: center;
+}
+
+.top{
+  font-size: 20px;
+  position: fixed;
+  top: 600px;
+  left: 700px;
+  text-decoration: none;
+  width: 60px;
+  cursor: progress;
+}
+
+.pass p{
+  margin: 0;
+  text-align: center;
+}
+
+.pass{
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+}
+
+.top p{
+  background-color: skyblue;
+  color: white;
+  width: 60px;
+  margin: 0px;
+}
+
+.top:hover{
+  opacity: 0.8;
+}
+
+.momo:hover{
+  opacity: 0.5;
+}
+
+.momo{
+  width: 120px;
+  margin: 0 auto;
+}
